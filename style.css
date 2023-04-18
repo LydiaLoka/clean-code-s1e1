@@ -32,7 +32,7 @@ body {
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 .form-card__wrapper {
   display: flex;
@@ -118,7 +118,7 @@ li > label {
   width: 226px;
 }
 li > input[type="text"] {
-  width: 226px
+  width: 226px;
 }
 .delete img {
   height: 2em;
